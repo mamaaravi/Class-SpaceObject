@@ -4,8 +4,6 @@ int main()
 {
 	int num = 0;
 	cout << "Enter the number of celestial bodies: ";
-	cout << "Enter the number of celestial bodies: ";
-
 	cin >> num;
 	system("cls");
 
